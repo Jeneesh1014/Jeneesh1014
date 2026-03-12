@@ -1,16 +1,69 @@
+# 👋 Jeneesh Surani
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jeneesh1014&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jeneesh1014&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeneesh1014&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<details open>
+<summary>🇩🇪 Deutsch</summary>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jeneesh1014&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+## 👨‍💻 Über mich
 
+Ich arbeite derzeit hauptsächlich an **Machine Learning und Deep Learning Projekten**.  
+Mein Fokus liegt darauf, Modelle zu verstehen und praktische Projekte zu bauen, z.B.:
+
+- Artificial Neural Networks (ANN)
+- Recurrent Neural Networks (RNN)
+- LSTM Modelle
+- Datenanalyse und Feature Engineering
+
+Neben Machine Learning habe ich Erfahrung in **Full-Stack Entwicklung**, insbesondere mit:
+
+- React & React Native
+- Node.js & Express
+- Cloud Services (AWS, Firebase)
+
+Dieses GitHub nutze ich, um **meinen Lernfortschritt zu dokumentieren und Projekte zu teilen**.
+
+</details>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jeneesh1014&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<details>
+<summary>🇬🇧 English</summary>
+
+## 👨‍💻 About Me
+
+Currently I am mainly working on **Machine Learning and Deep Learning projects**.  
+My focus is on understanding models and building practical projects such as:
+
+- Artificial Neural Networks (ANN)
+- Recurrent Neural Networks (RNN)
+- LSTM models
+- Data analysis and feature engineering
+
+Besides Machine Learning, I also have experience in **Full-Stack development**, especially with:
+
+- React & React Native
+- Node.js & Express
+- Cloud services (AWS, Firebase)
+
+This GitHub is where I **document my learning journey and share the projects I build**.
+
+</details>
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Jeneesh1014&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jeneesh1014&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeneesh1014&theme=dark&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Jeneesh1014&theme=onedark)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=Jeneesh1014&icon=1&color=0)
