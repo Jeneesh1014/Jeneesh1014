@@ -5,65 +5,49 @@
 
 ## 👨‍💻 Über mich
 
-Ich arbeite derzeit hauptsächlich an **Machine Learning und Deep Learning Projekten**.  
-Mein Fokus liegt darauf, Modelle zu verstehen und praktische Projekte zu bauen, z.B.:
+Mein aktueller Fokus liegt auf **Deep Learning**.  
+Ich beschäftige mich damit, **die grundlegenden Konzepte wirklich zu verstehen** und sie durch praktische Projekte anzuwenden.
 
-- Artificial Neural Networks (ANN)
-- Recurrent Neural Networks (RNN)
-- LSTM Modelle
-- Datenanalyse und Feature Engineering
+Dazu gehören unter anderem Themen wie:
 
-Neben Machine Learning habe ich Erfahrung in **Full-Stack Entwicklung**, insbesondere mit:
+- Neuronale Netze  
+- Sequenzmodelle und moderne Architekturen  
+- Transformer-basierte Modelle  
+- Datenanalyse und Feature Engineering  
 
-- React & React Native
-- Node.js & Express
-- Cloud Services (AWS, Firebase)
+Zurzeit arbeite ich an Projekten im Bereich **Computer Vision**, zum Beispiel an einem **CNN-Modell zur Erkennung von Kartoffelkrankheiten**.
 
-Dieses GitHub nutze ich, um **meinen Lernfortschritt zu dokumentieren und Projekte zu teilen**.
+Ich plane, weiterhin **Deep Learning Modelle zu bauen, zu experimentieren und neue Ansätze zu verstehen**, um mein praktisches und theoretisches Wissen kontinuierlich zu erweitern.
+
+Neben Deep Learning habe ich Erfahrung in **Full-Stack Entwicklung**, insbesondere mit **React, React Native und Node.js**.
+
+Dieses GitHub nutze ich, um **meine Projekte und meinen Lernfortschritt zu teilen**.
 
 </details>
 
 ---
 
 <details>
-<summary>🇬🇧 English</summary>
+<summary>English</summary>
 
 ## 👨‍💻 About Me
 
-Currently I am mainly working on **Machine Learning and Deep Learning projects**.  
-My focus is on understanding models and building practical projects such as:
+My current focus is on **Deep Learning**.  
+I aim to **understand the core concepts deeply** and apply them through practical projects.
 
-- Artificial Neural Networks (ANN)
-- Recurrent Neural Networks (RNN)
-- LSTM models
-- Data analysis and feature engineering
+This includes areas such as:
 
-Besides Machine Learning, I also have experience in **Full-Stack development**, especially with:
+- Neural networks  
+- Sequence models and modern architectures  
+- Transformer-based models  
+- Data analysis and feature engineering  
 
-- React & React Native
-- Node.js & Express
-- Cloud services (AWS, Firebase)
+At the moment I am working on **computer vision projects**, including a **CNN model for potato disease detection**.
 
-This GitHub is where I **document my learning journey and share the projects I build**.
+I plan to continue **building deep learning models, experimenting with new ideas, and exploring different architectures** to strengthen both my practical and theoretical understanding.
+
+Besides Deep Learning, I also have experience in **Full-Stack development**, especially with **React, React Native, and Node.js**.
+
+This GitHub is where I **share my projects and learning journey**.
 
 </details>
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Jeneesh1014&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jeneesh1014&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeneesh1014&theme=dark&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Jeneesh1014&theme=onedark)
-
----
-
-![](https://visitcount.itsvg.in/api?id=Jeneesh1014&icon=1&color=0)
