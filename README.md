@@ -1,7 +1,7 @@
 # 👋 Jeneesh Surani
 
 <details open>
-<summary>🇩🇪 Deutsch</summary>
+<summary>Deutsch</summary>
 
 ## 👨‍💻 Über mich
 
