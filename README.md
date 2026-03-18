@@ -3,25 +3,22 @@
 <details open>
 <summary>Deutsch</summary>
 
-## 👨‍💻 Über mich
+## Über mich
 
-Mein aktueller Fokus liegt auf **Deep Learning**.  
-Ich beschäftige mich damit, **die grundlegenden Konzepte wirklich zu verstehen** und sie durch praktische Projekte anzuwenden.
+Ich bin Master-Student in AI and Robotics an der Hochschule Hof, Deutschland.  
+Mein Fokus liegt auf **Generative AI, LLMs und RAG-Systemen**.
 
-Dazu gehören unter anderem Themen wie:
+**Themen:**
+- Retrieval Augmented Generation (RAG)
+- Large Language Models und Prompt Engineering
+- Vektordatenbanken und semantische Suche
+- LLM-Evaluierung und CI/CD-Pipelines
 
-- Neuronale Netze  
-- Sequenzmodelle und moderne Architekturen  
-- Transformer-basierte Modelle  
-- Datenanalyse und Feature Engineering  
+**Aktuelles Projekt:**  
+**Ask My Docs** — Produktionsreife RAG-Anwendung für KI/ML-Forschungspapiere  
+LangChain · Groq · ChromaDB · Cohere · HuggingFace · Ragas · FastAPI · Gradio
 
-Zurzeit arbeite ich an Projekten im Bereich **Computer Vision**, zum Beispiel an einem **CNN-Modell zur Erkennung von Kartoffelkrankheiten**.
-
-Ich plane, weiterhin **Deep Learning Modelle zu bauen, zu experimentieren und neue Ansätze zu verstehen**, um mein praktisches und theoretisches Wissen kontinuierlich zu erweitern.
-
-Neben Deep Learning habe ich Erfahrung in **Full-Stack Entwicklung**, insbesondere mit **React, React Native und Node.js**.
-
-Dieses GitHub nutze ich, um **meine Projekte und meinen Lernfortschritt zu teilen**.
+Ich suche aktiv nach **KI/ML-Praktika in Deutschland**.
 
 </details>
 
@@ -30,24 +27,21 @@ Dieses GitHub nutze ich, um **meine Projekte und meinen Lernfortschritt zu teile
 <details>
 <summary>English</summary>
 
-## 👨‍💻 About Me
+## About Me
 
-My current focus is on **Deep Learning**.  
-I aim to **understand the core concepts deeply** and apply them through practical projects.
+I am a Master's student in AI and Robotics at Hochschule Hof, Germany.  
+My focus is on **Generative AI, LLMs and RAG systems**.
 
-This includes areas such as:
+**Topics:**
+- Retrieval Augmented Generation (RAG)
+- Large Language Models and Prompt Engineering
+- Vector Databases and Semantic Search
+- LLM Evaluation and CI/CD Pipelines
 
-- Neural networks  
-- Sequence models and modern architectures  
-- Transformer-based models  
-- Data analysis and feature engineering  
+**Current Project:**  
+**Ask My Docs** — Production RAG application for AI/ML research papers  
+LangChain · Groq · ChromaDB · Cohere · HuggingFace · Ragas · FastAPI · Gradio
 
-At the moment I am working on **computer vision projects**, including a **CNN model for potato disease detection**.
-
-I plan to continue **building deep learning models, experimenting with new ideas, and exploring different architectures** to strengthen both my practical and theoretical understanding.
-
-Besides Deep Learning, I also have experience in **Full-Stack development**, especially with **React, React Native, and Node.js**.
-
-This GitHub is where I **share my projects and learning journey**.
+I am actively looking for **AI/ML internships in Germany**.
 
 </details>
