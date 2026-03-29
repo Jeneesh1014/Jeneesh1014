@@ -1,4 +1,4 @@
-# 👋 Jeneesh Surani
+# Jeneesh Surani
 
 <details open>
 <summary>Deutsch</summary>
@@ -7,20 +7,28 @@
 
 Ich bin Master-Student in AI and Robotics an der Hochschule Hof, Deutschland.
 
-Ich lerne aktiv **Deep Learning und Generative AI** —
-von den Grundlagen bis hin zu praktischen Projekten.
+Ich arbeite aktiv an Deep Learning und Generative AI mit Fokus auf effiziente Sprachmodelle und reale Anwendungen.
 
-**Ich habe mit folgenden Themen gearbeitet:**
-- ANN · CNN · RNN · LSTM · Transformer
-- Retrieval Augmented Generation (RAG)
-- Large Language Models · Prompt Engineering
-- Vektordatenbanken · Semantische Suche
+**Schwerpunkte:**
+- ANN, CNN, RNN, LSTM, Transformer  
+- Retrieval Augmented Generation (RAG)  
+- Large Language Models, Prompt Engineering  
+- Vektordatenbanken, semantische Suche  
 
-**Aktuelles Projekt:**  
-**Ask My Docs** — RAG-Anwendung für KI/ML-Forschungspapiere  
-LangChain · Groq · ChromaDB · Cohere · HuggingFace · Ragas · FastAPI
+**Projekte:**
 
-Ich suche aktiv nach **KI/ML-Praktika in Deutschland**.
+- **Ask My Docs** — RAG-Anwendung für KI/ML-Forschungspapiere  
+  (LangChain, Groq, ChromaDB, Cohere, HuggingFace, FastAPI)
+
+- **OpenAI Parameter Golf Challenge (2026)** — Knowledge Distillation  
+  - Training kompakter Sprachmodelle unter 16MB Artefakt-Budget  
+  - Teacher–Student Distillation (CE + KL mit Temperature Scaling)  
+  - MLX (Apple Silicon) + PyTorch Distributed Training (torchrun, Multi-GPU)  
+  - Experimente auf lokalen Systemen und H100-Cloud-GPUs  
+  - Bestes Ergebnis: ~1.72 val_bpb (partieller Lauf)  
+  - Open-Source Non-Record Submission mit Code, Logs und Dokumentation  
+
+Ich suche aktiv nach KI/ML-Praktika in Deutschland.
 
 </details>
 
@@ -33,19 +41,27 @@ Ich suche aktiv nach **KI/ML-Praktika in Deutschland**.
 
 I am a Master's student in AI and Robotics at Hochschule Hof, Germany.
 
-I am actively learning **Deep Learning and Generative AI** —
-from understanding the fundamentals to building real projects.
+I focus on Deep Learning and Generative AI, especially efficient language models and real-world systems.
 
-**I have worked with:**
-- ANN · CNN · RNN · LSTM · Transformer
-- Retrieval Augmented Generation (RAG)
-- Large Language Models · Prompt Engineering
-- Vector Databases · Semantic Search
+**Skills:**
+- ANN, CNN, RNN, LSTM, Transformer  
+- Retrieval Augmented Generation (RAG)  
+- Large Language Models, Prompt Engineering  
+- Vector Databases, Semantic Search  
 
-**Current Project:**  
-**Ask My Docs** — RAG application for AI/ML research papers  
-LangChain · Groq · ChromaDB · Cohere · HuggingFace · Ragas · FastAPI
+**Projects:**
 
-I am actively looking for **AI/ML internships in Germany**.
+- **Ask My Docs** — RAG application for AI/ML research papers  
+  (LangChain, Groq, ChromaDB, Cohere, HuggingFace, FastAPI)
+
+- **OpenAI Parameter Golf Challenge (2026)** — Knowledge Distillation  
+  - Built compact language models under a strict 16MB artifact constraint  
+  - Implemented teacher–student distillation (cross-entropy + KL with temperature)  
+  - Developed MLX (Apple Silicon) and PyTorch distributed (torchrun) training pipelines  
+  - Ran experiments on local systems and H100-class cloud GPUs  
+  - Achieved ~1.72 validation bits-per-byte (val_bpb) in a partial run  
+  - Submitted a non-record open-source contribution with full code and logs  
+
+Actively seeking AI/ML internships in Germany.
 
 </details>
