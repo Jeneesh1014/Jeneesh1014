@@ -31,9 +31,7 @@ Ich arbeite aktiv an Deep Learning und Generative AI mit Fokus auf effiziente Sp
 Ich suche aktiv nach KI/ML-Praktika in Deutschland.
 
 </details>
-
 ---
-
 <details>
 <summary>English</summary>
 
