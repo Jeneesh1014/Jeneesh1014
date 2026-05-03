@@ -1,67 +1,51 @@
-# Jeneesh Surani
+# Hey, I'm Jeneesh 👋
 
-<details open>
-<summary>Deutsch</summary>
+Master's student in AI & Robotics at Hochschule Hof, Germany. Originally from Surat, India.
 
-## Über mich
-
-Ich bin Master-Student in AI and Robotics an der Hochschule Hof, Deutschland.
-
-Ich arbeite aktiv an Deep Learning und Generative AI mit Fokus auf effiziente Sprachmodelle und reale Anwendungen.
-
-**Schwerpunkte:**
-- ANN, CNN, RNN, LSTM, Transformer  
-- Retrieval Augmented Generation (RAG)  
-- Large Language Models, Prompt Engineering  
-- Vektordatenbanken, semantische Suche  
-
-**Projekte:**
-
-- **Ask My Docs** — RAG-Anwendung für KI/ML-Forschungspapiere  
-  (LangChain, Groq, ChromaDB, Cohere, HuggingFace, FastAPI)
-
-- **OpenAI Parameter Golf Challenge (2026)** — Knowledge Distillation  
-  - Training kompakter Sprachmodelle unter 16MB Artefakt-Budget  
-  - Teacher–Student Distillation (CE + KL mit Temperature Scaling)  
-  - MLX (Apple Silicon) + PyTorch Distributed Training (torchrun, Multi-GPU)  
-  - Experimente auf lokalen Systemen und H100-Cloud-GPUs  
-  - Bestes Ergebnis: ~1.72 val_bpb (partieller Lauf)  
-  - Open-Source Non-Record Submission mit Code, Logs und Dokumentation  
-
-Ich suche aktiv nach KI/ML-Praktika in Deutschland.
-
-</details>
+I spend most of my time building things with LLMs — RAG pipelines, language model compression, 
+agentic systems. Less theory, more shipping.
 
 ---
 
-<details>
-<summary>English</summary>
+## What I've been working on
 
-## About Me
+**Ask My Docs** — a RAG system for AI/ML research papers. Hybrid retrieval (BM25 + vector search), 
+Cohere reranking, Groq for inference. Built the full stack: FastAPI backend, Gradio UI, 
+deployed on Hugging Face Spaces with a CI/CD pipeline. The kind of project where you learn 
+that evaluation is harder than building.
 
-I am a Master's student in AI and Robotics at Hochschule Hof, Germany.
+**OpenAI Parameter Golf Challenge** — the constraint was brutal: train a language model under 16MB. 
+I went with teacher–student knowledge distillation (CE + KL divergence with temperature scaling), 
+which turned out to be the only submission in the challenge using this approach. Ran experiments 
+on Apple Silicon (MLX) and H100-class GPUs. Hit ~1.72 val_bpb. Code, logs, and docs are all 
+open-source — no black boxes.
 
-I focus on Deep Learning and Generative AI, especially efficient language models and real-world systems.
+**AI Agent with LangGraph** *(in progress)* — building an agent that routes dynamically between 
+RAG and live web search. Still figuring out the right routing logic.
 
-**Skills:**
-- ANN, CNN, RNN, LSTM, Transformer  
-- Retrieval Augmented Generation (RAG)  
-- Large Language Models, Prompt Engineering  
-- Vector Databases, Semantic Search  
+---
 
-**Projects:**
+## Stack
 
-- **Ask My Docs** — RAG application for AI/ML research papers  
-  (LangChain, Groq, ChromaDB, Cohere, HuggingFace, FastAPI)
+Python · PyTorch · LangChain · FastAPI · ChromaDB · Docker · PostgreSQL · AWS  
+Previously: React Native, Node.js, Spring Boot (2 years in industry)
 
-- **OpenAI Parameter Golf Challenge (2026)** — Knowledge Distillation  
-  - Built compact language models under a strict 16MB artifact constraint  
-  - Implemented teacher–student distillation (cross-entropy + KL with temperature)  
-  - Developed MLX (Apple Silicon) and PyTorch distributed (torchrun) training pipelines  
-  - Ran experiments on local systems and H100-class cloud GPUs  
-  - Achieved ~1.72 validation bits-per-byte (val_bpb) in a partial run  
-  - Submitted a non-record open-source contribution with full code and logs  
+---
 
-Actively seeking AI/ML internships in Germany.
+## Background
 
-</details>
+Before the master's, I worked 2 years as a software developer building mobile apps and 
+backend services. Helps a lot when you actually want to deploy something, not just notebook it.
+
+Finished my B.E. in Computer Engineering with a 9.04 CGPA. Won a state-level hackathon in 
+Gujarat (₹2,00,000 prize, team of 4). Led another team to runner-up.
+
+---
+
+## Currently
+
+📍 Plauen, Germany  
+🎓 Semester 1 of M.Sc. AI & Robotics  
+🔍 Looking for AI/ML internships in Germany  
+
+If you're working on something interesting in NLP, LLMs, or applied ML — I'm around.
