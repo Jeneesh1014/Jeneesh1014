@@ -2,15 +2,23 @@
 
 Master’s student in AI & Robotics at Hochschule Hof, Germany. Originally from Surat, India.
 
-I spend most of my time building and experimenting with LLM systems, AI workflows, retrieval pipelines, and intelligent systems. I enjoy understanding how things work under the hood and learning by building real projects.
+I spend most of my time building and experimenting with LLM systems, AI workflows, retrieval pipelines, and intelligent systems. I enjoy understanding how systems work internally and usually learn best by building real projects.
 
 ---
 
-## What I'm Currently Working On
+## What I'm Working On
 
 ### AI Agent Tools
 
-Built a modular AI agent workflow system with dynamic routing between retrieval pipelines and live web search. The project explores agent orchestration, tool usage, routing logic, and multi-step reasoning workflows.
+Recently completed a modular AI agent workflow system with dynamic routing between retrieval pipelines and live web search.
+
+The project explores:
+
+* agent orchestration
+* routing logic
+* tool calling
+* multi-step workflows
+* retrieval-based reasoning
 
 Tech involved:
 
@@ -26,16 +34,20 @@ Tech involved:
 
 ### Ask My Docs
 
-A RAG-based assistant for AI/ML research papers using hybrid retrieval (BM25 + vector search), Cohere reranking, and Groq inference.
+A RAG-based assistant for AI/ML research papers using:
+
+* hybrid retrieval (BM25 + vector search)
+* Cohere reranking
+* Groq inference
 
 Built the full stack:
 
 * FastAPI backend
 * Gradio frontend
-* Retrieval pipeline
-* CI/CD deployment workflow
+* retrieval pipeline
+* deployment workflow
 
-One of the biggest takeaways from this project was realizing that evaluation and retrieval quality become much harder problems than simply generating responses.
+One thing I learned during this project was that retrieval quality and evaluation become much harder problems than simply generating responses.
 
 ---
 
@@ -56,7 +68,7 @@ Ran experiments on:
 
 Reached around ~1.72 val_bpb during experiments.
 
-The full training pipeline, logs, and experiments are open-source.
+The complete training workflow, logs, and experiments are open-source.
 
 ---
 
@@ -70,26 +82,25 @@ The project simulates a voice-controlled robotic drawing workflow using modular 
 * parser node
 * planner node
 
-My focus is mainly on the parser node and command interpretation workflow.
+My current focus is mainly on the parser node and command interpretation workflow.
 
-Current implementation supports simple shape-based commands inside turtlesim simulation.
+Right now the simulation supports basic shape-based commands inside turtlesim.
 
 ---
 
 ## Learning & Exploration
 
-Right now I’m spending a lot of time exploring:
+Currently spending most of my time exploring:
 
 * AI systems engineering
-* agent orchestration
-* evaluation systems
-* retrieval architectures
-* ROS2 communication workflows
+* retrieval systems
+* agent workflows
+* evaluation pipelines
+* ROS2 communication
 * distributed AI systems
-* command parsing pipelines
 * intelligent robotics workflows
 
-I also document coursework, experiments, and implementation notes in public repositories while learning.
+I also document coursework, experiments, and implementation notes publicly while learning.
 
 ---
 
@@ -106,20 +117,26 @@ React Native · Node.js · Spring Boot
 
 Before starting my master’s, I worked for around 2 years as a software developer building mobile applications and backend systems.
 
-That experience helped me become much more implementation-focused and comfortable with deployment, debugging, and production workflows.
+Most of my previous work involved:
+
+* React Native applications
+* backend APIs
+* deployment workflows
+* debugging production issues
+
+That experience made me much more comfortable with implementation, deployment, and system-level thinking.
 
 I completed my B.E. in Computer Engineering with a 9.04 CGPA.
 
-Achievements:
+Some other things I’ve worked on along the way:
 
-* Winner of a state-level hackathon in Gujarat (₹2,00,000 prize pool)
-* Runner-up in another statewide hackathon competition
+* solved 300+ LeetCode problems in Java
+* winner of a state-level hackathon in Gujarat
+* runner-up in another statewide hackathon competition
 
 ---
 
 ## Current Repositories
-
-Some repositories I’m actively working on:
 
 * `ai-agent-tools`
 * `rag-docs-assistant`
@@ -131,10 +148,18 @@ More systems-focused repositories are currently in progress.
 
 ---
 
-## Currently
+## Current Focus
 
-📍 Plauen, Germany
-🎓 M.Sc. AI & Robotics — Semester 1
-🔍 Looking for AI/ML internships and working student opportunities in Germany
+Based in Germany and currently looking for:
 
-If you're working on interesting problems in NLP, LLM systems, AI infrastructure, or applied ML, feel free to connect.
+* AI/ML internships
+* working student opportunities
+* engineering-focused AI roles
+
+Interested in:
+
+* NLP systems
+* LLM infrastructure
+* applied ML
+* AI agents
+* intelligent systems
