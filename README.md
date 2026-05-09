@@ -1,51 +1,140 @@
 # Hey, I'm Jeneesh 👋
 
-Master's student in AI & Robotics at Hochschule Hof, Germany. Originally from Surat, India.
+Master’s student in AI & Robotics at Hochschule Hof, Germany. Originally from Surat, India.
 
-I spend most of my time building things with LLMs — RAG pipelines, language model compression, 
-agentic systems. Less theory, more shipping.
-
----
-
-## What I've been working on
-
-**Ask My Docs** — a RAG system for AI/ML research papers. Hybrid retrieval (BM25 + vector search), 
-Cohere reranking, Groq for inference. Built the full stack: FastAPI backend, Gradio UI, 
-deployed on Hugging Face Spaces with a CI/CD pipeline. The kind of project where you learn 
-that evaluation is harder than building.
-
-**OpenAI Parameter Golf Challenge** — the constraint was brutal: train a language model under 16MB. 
-I went with teacher–student knowledge distillation (CE + KL divergence with temperature scaling), 
-which turned out to be the only submission in the challenge using this approach. Ran experiments 
-on Apple Silicon (MLX) and H100-class GPUs. Hit ~1.72 val_bpb. Code, logs, and docs are all 
-open-source — no black boxes.
-
-**AI Agent with LangGraph** *(in progress)* — building an agent that routes dynamically between 
-RAG and live web search. Still figuring out the right routing logic.
+I spend most of my time building and experimenting with LLM systems, AI workflows, retrieval pipelines, and intelligent systems. I enjoy understanding how things work under the hood and learning by building real projects.
 
 ---
 
-## Stack
+## What I'm Currently Working On
 
-Python · PyTorch · LangChain · FastAPI · ChromaDB · Docker · PostgreSQL · AWS  
-Previously: React Native, Node.js, Spring Boot (2 years in industry)
+### AI Agent Tools
+
+Built a modular AI agent workflow system with dynamic routing between retrieval pipelines and live web search. The project explores agent orchestration, tool usage, routing logic, and multi-step reasoning workflows.
+
+Tech involved:
+
+* LangGraph
+* LangChain
+* FastAPI
+* Docker
+* PostgreSQL
+* Vector databases
+* RAG pipelines
+
+---
+
+### Ask My Docs
+
+A RAG-based assistant for AI/ML research papers using hybrid retrieval (BM25 + vector search), Cohere reranking, and Groq inference.
+
+Built the full stack:
+
+* FastAPI backend
+* Gradio frontend
+* Retrieval pipeline
+* CI/CD deployment workflow
+
+One of the biggest takeaways from this project was realizing that evaluation and retrieval quality become much harder problems than simply generating responses.
+
+---
+
+### OpenAI Parameter Golf Challenge
+
+Worked on training a language model under a strict 16MB constraint.
+
+Implemented:
+
+* teacher–student knowledge distillation
+* CE + KL divergence training
+* temperature scaling experiments
+
+Ran experiments on:
+
+* Apple Silicon (MLX)
+* H100-class GPUs
+
+Reached around ~1.72 val_bpb during experiments.
+
+The full training pipeline, logs, and experiments are open-source.
+
+---
+
+### Intelligent Robotics Simulation
+
+Currently working on a ROS2 Jazzy robotics simulation project as part of the Intelligent Robotics course at Hochschule Hof.
+
+The project simulates a voice-controlled robotic drawing workflow using modular ROS2 nodes:
+
+* speech-to-text node
+* parser node
+* planner node
+
+My focus is mainly on the parser node and command interpretation workflow.
+
+Current implementation supports simple shape-based commands inside turtlesim simulation.
+
+---
+
+## Learning & Exploration
+
+Right now I’m spending a lot of time exploring:
+
+* AI systems engineering
+* agent orchestration
+* evaluation systems
+* retrieval architectures
+* ROS2 communication workflows
+* distributed AI systems
+* command parsing pipelines
+* intelligent robotics workflows
+
+I also document coursework, experiments, and implementation notes in public repositories while learning.
+
+---
+
+## Tech Stack
+
+Python · PyTorch · FastAPI · LangChain · LangGraph · ChromaDB · PostgreSQL · Docker · AWS · ROS2 · Gradio
+
+Previously worked with:
+React Native · Node.js · Spring Boot
 
 ---
 
 ## Background
 
-Before the master's, I worked 2 years as a software developer building mobile apps and 
-backend services. Helps a lot when you actually want to deploy something, not just notebook it.
+Before starting my master’s, I worked for around 2 years as a software developer building mobile applications and backend systems.
 
-Finished my B.E. in Computer Engineering with a 9.04 CGPA. Won a state-level hackathon in 
-Gujarat (₹2,00,000 prize, team of 4). Led another team to runner-up.
+That experience helped me become much more implementation-focused and comfortable with deployment, debugging, and production workflows.
+
+I completed my B.E. in Computer Engineering with a 9.04 CGPA.
+
+Achievements:
+
+* Winner of a state-level hackathon in Gujarat (₹2,00,000 prize pool)
+* Runner-up in another statewide hackathon competition
+
+---
+
+## Current Repositories
+
+Some repositories I’m actively working on:
+
+* `ai-agent-tools`
+* `rag-docs-assistant`
+* `parameter-golf`
+* `applied-deep-learning-lab`
+* `artistic-robotics-simulation`
+
+More systems-focused repositories are currently in progress.
 
 ---
 
 ## Currently
 
-📍 Plauen, Germany  
-🎓 Semester 1 of M.Sc. AI & Robotics  
-🔍 Looking for AI/ML internships in Germany  
+📍 Plauen, Germany
+🎓 M.Sc. AI & Robotics — Semester 1
+🔍 Looking for AI/ML internships and working student opportunities in Germany
 
-If you're working on something interesting in NLP, LLMs, or applied ML — I'm around.
+If you're working on interesting problems in NLP, LLM systems, AI infrastructure, or applied ML, feel free to connect.
