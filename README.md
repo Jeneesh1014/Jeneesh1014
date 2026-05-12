@@ -1,4 +1,4 @@
-# Hey, I'm Jeneesh 👋
+# Hey, I'm Jeneesh 👋 
 
 Master’s student in AI & Robotics at Hochschule Hof, Germany.
 
