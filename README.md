@@ -114,7 +114,7 @@ Most of my previous work involved:
 * deployment workflows
 * debugging production issues
 
-I completed my B.E. in Computer Engineering with a 9.04 CGPA.
+I completed my B.E. in Computer Engineering with a 9.04 CGPA. (1.3 gpa)
 
 Some other things I’ve worked on along the way:
 
