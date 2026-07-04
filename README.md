@@ -1,146 +1,101 @@
-# Hey, I'm Jeneesh 👋 
+# Hey, I'm Jeneesh 👋
 
-Master’s student in AI & Robotics at Hochschule Hof, Germany.
+I'm a Master's student in **AI & Robotics** at **Hof University of Applied Sciences, Germany**.
 
-Currently exploring:
+I enjoy building AI systems that solve real problems—from retrieval pipelines and AI agents to efficient language models. Most of my time is spent experimenting, breaking things, fixing them, and learning something new along the way.
 
-* LLM systems
-* AI agents
-* retrieval pipelines
-* ROS2 workflows
-* intelligent robotics
-
-Previously worked for around 2 years as a software developer building mobile and backend systems.
-
-## Tech Stack
-
-Python · PyTorch · FastAPI · LangChain · LangGraph · Docker · PostgreSQL · AWS · ROS2
-
-Previously worked with:
-React Native · Node.js · Spring Boot
-
-## Current Repositories
-
-* `ai-agent-tools`
-* `rag-docs-assistant`
-* `parameter-golf`
-* `applied-deep-learning-lab`
-* `artistic-robotics-simulation`
-
-<details>
-<summary><strong>More About My Work</strong></summary>
-
-<br>
-
-### AI Agent Tools
-
-Recently completed a modular AI agent workflow system with dynamic routing between retrieval pipelines and live web search.
-
-Main areas explored:
-
-* agent orchestration
-* routing logic
-* tool calling
-* retrieval workflows
-
-Built using:
-
-* LangGraph
-* LangChain
-* FastAPI
-* PostgreSQL
-* Docker
+Previously, I worked for **2 years as a Software Developer**, building mobile applications, backend services, and cloud-based systems before moving into AI.
 
 ---
 
+## What I'm Currently Exploring
+
+- Large Language Models (LLMs)
+- AI Agents & Agentic Workflows
+- Retrieval-Augmented Generation (RAG)
+- Model Evaluation & Benchmarking
+- Efficient LLM Training & Compression
+
+---
+
+## Tech Stack
+
+**AI & ML**
+
+Python • PyTorch • Transformers • LangChain • LangGraph • RAG • ChromaDB • BM25 • Cohere • Groq • Ragas
+
+**Backend**
+
+FastAPI • PostgreSQL • Docker • GitHub Actions • AWS
+
+**Previously Worked With**
+
+React Native • Node.js • Express.js • Spring Boot
+
+---
+
+## Featured Projects
+
 ### Ask My Docs
 
-Built a RAG-based assistant for AI/ML research papers using:
+A production-ready RAG system for AI/ML research papers.
 
-* hybrid retrieval
-* Cohere reranking
-* Groq inference
-
-Worked on:
-
-* retrieval pipelines
-* evaluation workflows
-* FastAPI backend
-* Gradio frontend
-* deployment setup
+- Hybrid Retrieval (BM25 + Vector Search)
+- Cohere Reranking
+- Groq LLM Generation
+- Automated evaluation using Ragas
+- FastAPI + Gradio
+- GitHub Actions CI
 
 ---
 
 ### OpenAI Parameter Golf Challenge
 
-Worked on training a language model under a strict 16MB constraint using teacher–student knowledge distillation.
+Built and trained compact language models under the challenge's **16 MB model + code constraint**.
 
-Experimented with:
+Highlights:
 
-* CE + KL divergence
-* temperature scaling
-* MLX on Apple Silicon
-* H100-class GPUs
-
-Reached around ~1.72 val_bpb during experiments.
+- Teacher–Student Knowledge Distillation
+- PyTorch Distributed Training
+- MLX on Apple Silicon
+- H100 GPU Experiments
+- Best documented result: **~1.72 validation BPB** (partial training run)
+- Open-source non-record submission
 
 ---
 
-### Intelligent Robotics Simulation
+### AI Agent Tools
 
-Currently working on a ROS2 Jazzy robotics simulation project involving:
+A modular AI agent framework capable of dynamically routing queries between RAG pipelines and live web search.
 
-* speech-to-text node
-* parser node
-* planner node
+Built with:
 
-My main focus is command parsing and ROS2 communication workflows.
+- LangGraph
+- LangChain
+- FastAPI
+- Docker
+- PostgreSQL
 
-Current implementation supports basic shape-based commands inside turtlesim.
+---
 
-</details>
+## A Few Things About Me
 
-<details>
-<summary><strong>Background</strong></summary>
+- Master's student passionate about practical AI engineering
+- 2 years of software development experience
+- B.E. in Computer Engineering (CGPA: **9.04/10**)
+- Solved **300+ LeetCode** problems
+- State-level Hackathon Winner
+- Always building something new (or accidentally breaking it first)
 
-<br>
+---
 
-Before starting my master’s, I worked for around 2 years as a software developer building mobile applications and backend systems.
+## Current Focus
 
-Most of my previous work involved:
+I'm currently looking for:
 
-* React Native applications
-* backend APIs
-* deployment workflows
-* debugging production issues
+- AI/ML Internships
+- Working Student Opportunities
+- LLM Engineering Roles
+- Generative AI & Applied ML Projects
 
-I completed my B.E. in Computer Engineering with a 9.04 CGPA. (1.3 gpa)
-
-Some other things I’ve worked on along the way:
-
-* solved 300+ LeetCode problems in Java
-* winner of a state-level hackathon in Gujarat
-* runner-up in another statewide hackathon competition
-
-</details>
-
-<details>
-<summary><strong>Current Focus</strong></summary>
-
-<br>
-
-Currently looking for:
-
-* AI/ML internships
-* working student opportunities
-* engineering-focused AI roles
-
-Interested in:
-
-* NLP systems
-* LLM infrastructure
-* applied ML
-* AI agents
-* intelligent systems
-
-</details>
+If you're building interesting AI systems or just want to talk about LLMs, RAG, or model optimization, feel free to connect!
