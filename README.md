@@ -33,7 +33,7 @@ Collaborative whitepapers diving into the mechanics of how LLMs actually work:
 *   **AI & Agents:** Python, PyTorch, LangGraph, LangChain, OpenTelemetry, Ragas, Hugging Face
 *   **Data & Retrieval:** ChromaDB, BM25, PostgreSQL, SQLite
 *   **DevOps & Backend:** FastAPI, Docker, GitHub Actions CI/CD, AWS
-*   **The "I used to do this full-time" Stack:** Node.js, Express.js, Spring Boot, React Native
+*   **The "I used to do this full-time" Stack:** Typescript, Node.js, Express.js, Spring Boot, React Native
 
 ---
 
