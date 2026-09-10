@@ -10,10 +10,6 @@ Now I combine that software engineering background with AI engineering to build 
 
 📍 Germany  
 💼 Open to AI Engineer, AI/ML Internship, and Working Student roles  
-🌐 Portfolio: https://ai-portfolio-6u12.vercel.app/
-
-**LinkedIn:** www.linkedin.com/in/jeneesh-surani-ai  
-**Email:** jeneeshsurani@gmail.com
 
 ---
 
