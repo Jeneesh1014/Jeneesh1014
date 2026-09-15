@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Jeneesh%20Surani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20LangGraph&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=M.Sc.+AI+%26+Robotics+%40+Hof+University;Building+LangGraph+multi-agent+systems;Red-teaming+my+own+MCP+agent;Two+years+of+backend+dev+before+AI" alt="Typing SVG" /></a>
 
@@ -78,16 +77,7 @@ So far: 100% of tested destructive actions get blocked, and it's built against t
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-<br>
 
-## GitHub stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=Jeneesh1014&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Jeneesh1014&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeneesh1014&theme=tokyonight&hide_border=true" />
-</div>
 
 <br>
 
